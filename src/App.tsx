@@ -20,6 +20,7 @@ const App = () => {
           </Button>
         </div>
       </div>
+      <div>京ICP备2021036247号-1</div>
     </div>
   );
 };
